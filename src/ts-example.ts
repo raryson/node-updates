@@ -1,0 +1,1 @@
+console.log("this code using node running native mode")

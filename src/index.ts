@@ -1,0 +1,1 @@
+console.log(`running with tsx and watch`)
